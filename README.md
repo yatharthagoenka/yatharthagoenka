@@ -16,12 +16,7 @@ An enthusiast looking out for tomorrow.
 
 ## SkillSet
 
-<br>
-<img alt="NestJS" src="https://img.shields.io/badge/NestJS-•-orange" />
-<img alt="Typescript" src="https://img.shields.io/badge/TS-•-pink" />
-<img alt="Flask" src="https://img.shields.io/badge/Flask-•-brown" />
-<img alt="Flask" src="https://img.shields.io/badge/JavaScript-•-red" />
-<img alt="PASSPORT" src="https://img.shields.io/badge/Passport-•-yellow" />
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-•-orange" /> <img alt="Typescript" src="https://img.shields.io/badge/TS-•-pink" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-•-brown" /> <img alt="Flask" src="https://img.shields.io/badge/JavaScript-•-red" /> <img alt="PASSPORT" src="https://img.shields.io/badge/Passport-•-yellow" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-•-green" /> 
 <img alt="Winston" src="https://img.shields.io/badge/Winston-•-yellow" />
 <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-•-red" />
