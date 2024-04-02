@@ -3,10 +3,10 @@
 
 An enthusiast looking out for tomorrow.
 
-- :bulb: ex-SDE Intern @ Tranzact
+- :bulb: ex-SDE Intern @ Mercari (Tokyo, JP)
 - 🏫 Cisco Campus Ambassador 2023-24
 - 🌱 Core Member for Google's DSC @ IIIT'J
-- :books: CSE Final Year
+- :books: CSE - IIIT'J 2024
 - :computer: Software Development Engineer
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/yathartha-goenka-4b62b1200/) or mail me at `goenkayathartha2002@gmail.com`
 <p>&nbsp;</p>
